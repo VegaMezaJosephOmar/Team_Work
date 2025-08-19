@@ -1,2 +1,3 @@
-# Team_Work
-trabajo en equipo para el taller de programacion
+# Actividades_Tareas
+Trabajos personales
+
